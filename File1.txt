@@ -2,7 +2,7 @@ Hello World!!
 
 Welcome to git..
 
-feature 1 - Login
+feature 1 - Login - updated by team member for 3 ways checking
 
 feature 2 - Log Out
 
