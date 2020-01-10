@@ -2,10 +2,13 @@ Hello World!!
 
 Welcome to git..
 
-feature 1 - Login - updated by team member for 3 ways checking
+Feature 1 - Login - updated by team member for 3 ways checking
 
 feature 2 - LogOut
 
-bug1 - fixed
+Bug 1 -> fixed
 
-bug2 - fixed
+Bug 2 -> fixed
+
+
+chang added for rebase test
