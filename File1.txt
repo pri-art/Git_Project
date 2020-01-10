@@ -4,6 +4,8 @@ Welcome to git..
 
 feature 1 - Login
 
-feature 2 - Log Out
+feature 2 - LogOut
 
 bug1 - fixed
+
+bug2 - fixed
