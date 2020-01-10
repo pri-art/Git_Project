@@ -4,6 +4,8 @@ Welcome to git..
 
 feature 1 - Login - updated by team member for 3 ways checking
 
-feature 2 - Log Out
+feature 2 - LogOut
 
 bug1 - fixed
+
+bug2 - fixed
